@@ -6,5 +6,6 @@ public class App {
 		Person alex = new Person( "Alex", "Miller", 25 );
 		
 		alex.print();
+		
 	}
 }
